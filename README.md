@@ -1,5 +1,5 @@
 Hi  👋</br>
-I'm studying to become a **web developer** 👩🏻‍💻
+I've been studying to be a **web developer** 👩🏻‍💻
 
 I enjoy exercises like golf, pilates 🏌🤸</br>
 I want to make a **better world** 💫
