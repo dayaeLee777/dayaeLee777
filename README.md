@@ -6,7 +6,7 @@ I want to make a **better world** 💫
 
 ### ☎️ Contact me 
 <a href="https://devdange.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-DD0B78?style=flat-square&amp;logo=GitHub%20Sponsors&amp;logoColor=white"/>
-<a href="ldy1853@naver.com" target="_blank"><img src="https://img.shields.io/badge/ldy1853@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto::ldy1853@naver.com" target="_blank"><img src="https://img.shields.io/badge/ldy1853@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 ### 📚 Skills  
