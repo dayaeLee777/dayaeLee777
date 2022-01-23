@@ -1,8 +1,8 @@
 Hi  👋</br>
-I've been studying to be a **web developer** 👩🏻‍💻
+I've been studying CS, programming to become a **witty web developer** 👩🏻‍💻
 
-I enjoy exercises like golf, pilates 🏌🤸</br>
-I want to make a **better world** 💫
+I'm a golf-hobbier, also doing pilates from time to time 🏌🤸</br>
+I want to make **the world a better place** 💫
 
 ### ☎️ Contact me 
 <a href="https://devdange.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-DD0B78?style=flat-square&amp;logo=GitHub%20Sponsors&amp;logoColor=white"/>
